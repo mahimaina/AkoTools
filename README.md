@@ -7,7 +7,9 @@ The GUI below shows the use of the inventory as a Teacher's Toolset. There is an
 #### The GUI menu items are:
 
 ##### 1st Level Of GUI Items:
-'''
+
+```
+
 /freeze
 /unfreeze
 /fly
@@ -15,10 +17,13 @@ The GUI below shows the use of the inventory as a Teacher's Toolset. There is an
 /kill
 /msg
 /tp (to teacher)
-'''
+
+```
 
 ##### 2nd Level Of GUI Items:
-'''
+
+```
+
 /classToggle
 /startLesson
 /endLesson
@@ -26,7 +31,8 @@ The GUI below shows the use of the inventory as a Teacher's Toolset. There is an
 /spawnLesson
 /resetLesson
 /extendLesson
-'''
+
+```
 
 The idea behind the use of the Teachers Toolset was for teachers to walk through a Portal on the the boat (Te Waka - See the network plan above) which would boot up a new server. This server would be one of 5 that they are allowed to set up, and be essentially a superflat world, but with a circular border around the outside of unscaleable mountians/cliff faces. 
 
